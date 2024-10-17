@@ -81,6 +81,7 @@
 
 /* Header QR Code */
 .header_qr{
+    z-index: 1;
     width: 186px;
     background-color: var(--white-color);
     position: absolute;
@@ -383,7 +384,7 @@
 }
 
 .header__logo-img{
-    width: 150px;
+    width: 165px;
     color: var(--white-color);
 }
 
@@ -419,6 +420,7 @@
 }
 
 .header__cart-list{
+    z-index: 1;
     position: absolute;
     top: calc(100% + 6px);
     right: -4px;
