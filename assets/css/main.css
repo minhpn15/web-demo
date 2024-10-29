@@ -887,14 +887,6 @@ i.home-product-item__like-icon-fill{
     font-weight: 300;
 }
 
-.home-product-item__brand{
-    
-}
-
-.home-product-item_origin-name{
-    
-}
-
 .home-product-item__favourite{
     position: absolute;
     top: 10px;
@@ -970,4 +962,10 @@ i.home-product-item__like-icon-fill{
 
 .home-product__pagination{
     margin: 48px 0 32px 0;
+}
+
+/* footer */
+
+.footer{
+
 }
