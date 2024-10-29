@@ -967,3 +967,7 @@ i.home-product-item__like-icon-fill{
     font-weight: 500;
     top: 2px;
 }
+
+.home-product__pagination{
+    margin: 48px 0 32px 0;
+}
